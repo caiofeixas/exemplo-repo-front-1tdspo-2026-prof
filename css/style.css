@@ -27,5 +27,6 @@ main{
 }
 
 #menu ul li {
-    display: inline;
+    display: inline-block;
+    width: 20%;
 }
